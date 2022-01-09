@@ -7,5 +7,4 @@ dependencies:
   - pandas
   - seaborn
   - scipy
-  - statsmodels.api
-  - statsmodels.stats.power
+  - statsmodels
